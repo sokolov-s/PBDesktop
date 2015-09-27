@@ -1,0 +1,137 @@
+SyncListView, BookTreeView, BookTableView,
+TreeListView, FlexTableView, QListView{
+    background: #edede5;
+    font-family: "Roboto";
+    font-size: 10.5pt;
+    color: #30302f;
+    selection-color: #f0efec;
+}
+
+SyncListView::item,
+BookTreeView::item,
+BookTableView::item,
+QListView::item {
+    border: 1px solid #e6e6e6;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: #edede5
+}
+
+SyncListView::item:focus,
+BookTreeView::item:focus,
+BookTableView::item:focus,
+QListView::item:focus{
+    border: none;
+}
+
+SyncListView::item:alternate,
+BookTreeView::item:alternate,
+BookTableView::item:alternate,
+QListView::item:alternate {
+    border: 1px solid #e6e6e6;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: #f2f2ea
+}
+
+SyncListView::item:selected,
+BookTreeView::item:selected,
+BookTableView::item:selected,
+QListView::item:selected {
+    border: 1px solid #e6e6e6;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: #b5aea1
+}
+
+BookTreeView::item:has-children {
+    border: 1px solid #e6e6e6;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: #dfddd1;
+    selection-color: #30302f;
+    height: 21px;
+}
+
+BookTreeView::branch:has-siblings:!adjoins-item,
+BookTreeView::branch:has-siblings:adjoins-item,
+BookTreeView::branch:!has-children:!has-siblings:adjoins-item {
+    border-image: url(n) 0;
+    background: #edede5
+}
+
+BookTreeView::branch:has-children:!has-siblings:closed,
+BookTreeView::branch:closed:has-children:has-siblings{
+    border-image: none;
+    image: url(:/images/treeview_arrow_closed.png);
+    border: 1px solid #e6e6e6;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: #dfddd1;
+}
+
+BookTreeView::branch:open:has-children:!has-siblings,
+BookTreeView::branch:open:has-children:has-siblings{
+    border-image: none;image: url(:/images/treeview_arrow_open.png);
+    border: 1px solid #e6e6e6;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background: #dfddd1;
+}
+
+PBHeaderView{
+    qproperty-backgroundColor: #edede5;
+    qproperty-checkedBackgroundColor: #c5bdb0;
+    qproperty-color: #a59f94;
+    qproperty-checkedColor: #30302f;
+}
+
+PBHeaderView::section{
+    height: 22px;
+    background-color: transparent;
+    color: transparent;
+    border: 1px solid #e6e6e6;
+    font-family: "Roboto";
+    font-size: 10.5pt;
+}
+
+PBHeaderView::up-arrow{
+    image: url(:/images/headerview_arrow_up.png);
+}
+
+PBHeaderView::down-arrow{
+    image: url(:/images/headerview_arrow_down.png);
+}
+
+QScrollBar::vertical{
+    width: 4px;
+    background: #d5d5cd;
+    border: 0px;
+}
+
+QScrollBar::handle::vertical{
+    background: #a9aaa4;
+    min-height: 20px;
+}
+
+QScrollBar::horizontal{
+    height: 4px;
+    background: #d5d5cd;
+    border: 0px;
+}
+
+QScrollBar::handle::horizontal{
+    background: #a9aaa4;
+    min-height: 20px;
+}
+
+QToolTip{
+    font-family: "Roboto";
+    font-size: 10.5pt;
+}

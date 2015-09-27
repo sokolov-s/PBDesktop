@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="30"
+   height="30"
+   id="svg2"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="m 0.652,4.225 15.997,0 0,16 -15.997,0 0,-16 z"
+         id="path18" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,30)"
+     id="g10"><g
+       id="g12"
+       style="fill:#000000"><g
+         clip-path="url(#clipPath16)"
+         id="g14"
+         style="fill:#000000"><g
+           transform="translate(11.9648,16.0244)"
+           id="g20"
+           style="fill:#000000"><path
+             d="m 0,0 c 0,-1.83 -1.483,-3.313 -3.313,-3.313 -1.831,0 -3.315,1.483 -3.315,3.313 0,1.83 1.484,3.313 3.315,3.313 C -1.483,3.313 0,1.83 0,0"
+             id="path22"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(7.5293,8.4258)"
+           id="g24"
+           style="fill:#000000"><path
+             d="m 0,0 c 0,-1.83 -1.483,-3.314 -3.313,-3.314 -1.831,0 -3.315,1.484 -3.315,3.314 0,1.832 1.484,3.314 3.315,3.314 C -1.483,3.314 0,1.832 0,0"
+             id="path26"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(16.4004,8.4258)"
+           id="g28"
+           style="fill:#000000"><path
+             d="m 0,0 c 0,-1.83 -1.484,-3.314 -3.313,-3.314 -1.83,0 -3.313,1.484 -3.313,3.314 0,1.832 1.483,3.314 3.313,3.314 C -1.484,3.314 0,1.832 0,0"
+             id="path30"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g></g></g></g></svg>

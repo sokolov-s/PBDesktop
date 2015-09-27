@@ -1,0 +1,91 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="Roboto-Condensed.ttf">resources/fonts/Roboto-Condensed.ttf</file>
+        <file alias="Roboto-Regular.ttf">resources/fonts/Roboto-Regular.ttf</file>
+        <file alias="Roboto-BoldCondensed.ttf">resources/fonts/Roboto-BoldCondensed.ttf</file>
+        <file alias="Roboto-Bold.ttf">resources/fonts/Roboto-Bold.ttf</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file alias="style.qss">resources/style.qss</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file alias="images/window_title/button_checked.png">resources/images/window_title/button_checked.png</file>
+        <file alias="images/window_title/button_pressed.png">resources/images/window_title/button_pressed.png</file>
+        <file alias="images/window_title/settings.svg">resources/images/window_title/settings.svg</file>
+        <file alias="images/navigation_panel/reading_now.png">resources/images/navigation_panel/panel_reading now.png</file>
+        <file alias="images/navigation_panel/going_to_read.png">resources/images/navigation_panel/panel_going to read.png</file>
+        <file alias="images/navigation_panel/live_read.png">resources/images/navigation_panel/panel_live read.png</file>
+        <file alias="images/navigation_panel/reading_now_checked.png">resources/images/navigation_panel/panel_reading now_checked.png</file>
+        <file alias="images/navigation_panel/live_read_checked.png">resources/images/navigation_panel/panel_live read_checked.png</file>
+        <file alias="images/navigation_panel/going_to_read_checked.png">resources/images/navigation_panel/panel_going to read_checked.png</file>
+        <file alias="images/bottom_toolbar/bookshell.svg">resources/images/bottom_toolbar/bookshell.svg</file>
+        <file alias="images/bottom_toolbar/remove.svg">resources/images/bottom_toolbar/remove.svg</file>
+        <file alias="images/bottom_toolbar/devices.svg">resources/images/bottom_toolbar/devices.svg</file>
+        <file>resources/images/info_panel/close_btn.png</file>
+        <file alias="images/infopanel/goingread.png">resources/images/info_panel/going_read.png</file>
+        <file alias="images/infopanel/liveread.png">resources/images/info_panel/live_read.png</file>
+        <file alias="images/infopanel/reading.png">resources/images/info_panel/reading.png</file>
+        <file>resources/images/navigation_panel/bnt_newBook_focused.png</file>
+        <file>resources/images/navigation_panel/bnt_newBook_normal.png</file>
+        <file>resources/images/navigation_panel/bnt_newBook_pressed.png</file>
+        <file alias="images/lastopened/left_arrow.png">resources/images/navigation_panel/arrow_left.png</file>
+        <file alias="images/lastopened/right_arrow.png">resources/images/navigation_panel/panel_arrow_right.png</file>
+        <file alias="images/navigation_panel/device.png">resources/images/navigation_panel/panel_devices.png</file>
+        <file alias="images/top_toolbar/slider/handle.svg">resources/images/top_toolbar/scroll/handle.svg</file>
+        <file alias="images/top_toolbar/tiles">resources/images/top_toolbar/bar_.svg</file>
+        <file alias="images/top_toolbar/tiles_checked">resources/images/top_toolbar/bar.svg</file>
+        <file alias="images/top_toolbar/table">resources/images/top_toolbar/list_.svg</file>
+        <file alias="images/top_toolbar/table_checked">resources/images/top_toolbar/list.svg</file>
+        <file alias="images/navigation_panel/section_arrow.png">resources/images/navigation_panel/panel_arrow_top.png</file>
+        <file alias="images/navigation_panel/device_checked.png">resources/images/navigation_panel/device_checked.png</file>
+        <file alias="images/navigation_panel/favorite.svg">resources/images/navigation_panel/favorite.svg</file>
+        <file alias="images/navigation_panel/all_genres.svg">resources/images/navigation_panel/all_genres.svg</file>
+        <file alias="images/navigation_panel/all_authors.svg">resources/images/navigation_panel/all_authors.svg</file>
+        <file alias="images/navigation_panel/all_books.svg">resources/images/navigation_panel/all_books.svg</file>
+        <file alias="images/navigation_panel/pbsync.svg">resources/images/navigation_panel/pb sync.svg</file>
+        <file alias="images/bottom_toolbar/download.svg">resources/images/bottom_toolbar/download.svg</file>
+        <file alias="images/navigation_panel/downloads_folder.svg">resources/images/navigation_panel/downloads.svg</file>
+        <file alias="info_border">resources/images/bookview/info_border.png</file>
+        <file alias="images/bottom_toolbar/favorite_off.svg">resources/images/bottom_toolbar/favorite_off.svg</file>
+        <file alias="images/bottom_toolbar/favorite_on.svg">resources/images/bottom_toolbar/favorite_on.svg</file>
+        <file alias="images/window_title/update">resources/images/window_title/update.svg</file>
+        <file alias="images/bottom_toolbar/pressed">resources/images/bottom_toolbar/pressed.png</file>
+        <file alias="images/bottom_toolbar/hover">resources/images/bottom_toolbar/hover.png</file>
+        <file alias="images/top_toolbar/green_arrow">resources/images/top_toolbar/green_arrow.svg</file>
+        <file alias="images/settings/arraw_block.svg">resources/images/settings/arrow_block.svg</file>
+        <file alias="images/window_title/search.svg">resources/images/window_title/search.svg</file>
+        <file alias="images/window_title/PB_logo.svg">resources/images/window_title/PocketBook.svg</file>
+        <file alias="images/bookview/close_crosshair.svg">resources/images/bookview/close_crosshair.svg</file>
+        <file alias="images/bookview/triangle_pointer.svg">resources/images/bookview/triangle_pointer.svg</file>
+        <file alias="images/settings/check_off.svg">resources/images/settings/checkBox_off.svg</file>
+        <file alias="images/settings/check_on.svg">resources/images/settings/checkBox_on.svg</file>
+        <file alias="images/settings/foder.svg">resources/images/settings/folder.svg</file>
+        <file alias="images/settings/radio_off.svg">resources/images/settings/radiobtn_off.svg</file>
+        <file alias="images/settings/radio_on.svg">resources/images/settings/radiobtn_on.svg</file>
+        <file alias="images/lastopened/bg_hovered.png">resources/images/navigation_panel/panel_arrow_focused.png</file>
+        <file alias="images/lastopened/bg_pressed.png">resources/images/navigation_panel/panel_arrow_pressed.png</file>
+        <file alias="images/lastopened/shadow.png">resources/images/navigation_panel/last opened_shadow.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="headerview_arrow_down.png">resources/images/headerview_arrow_down.png</file>
+        <file alias="headerview_arrow_up.png">resources/images/headerview_arrow_up.png</file>
+        <file alias="treeview_arrow_closed.png">resources/images/treeview_arrow_closed.png</file>
+        <file alias="treeview_arrow_open.png">resources/images/treeview_arrow_open.png</file>
+        <file alias="bookview/emptystar.svg">resources/images/bookview/star_off.svg</file>
+        <file alias="bookview/yellowstar.svg">resources/images/bookview/star_on.svg</file>
+        <file alias="bookview/hoverstar.svg">resources/images/bookview/star.svg</file>
+        <file alias="bookview/small_book.svg">resources/images/bookview/small_book.svg</file>
+    </qresource>
+    <qresource prefix="/sync">
+        <file alias="download">resources/images/syncview/download.svg</file>
+        <file alias="error">resources/images/syncview/error.svg</file>
+        <file alias="inqueue">resources/images/syncview/inqueue.svg</file>
+        <file alias="progress">resources/images/syncview/pause.svg</file>
+        <file alias="pause">resources/images/syncview/play.svg</file>
+        <file alias="pause_white">resources/images/syncview/play_white.svg</file>
+        <file alias="progress_white">resources/images/syncview/pause_white.svg</file>
+        <file alias="inqueue_white">resources/images/syncview/inqueue_white.svg</file>
+        <file alias="error_white">resources/images/syncview/error_white.svg</file>
+        <file alias="download_white">resources/images/syncview/download_white.svg</file>
+    </qresource>
+</RCC>
